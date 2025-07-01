@@ -34,3 +34,6 @@ env/
 # Project specific
 *.csv  # Ignore scraped data files
 geckodriver.log  # Firefox WebDriver log 
+
+# cursor
+.cursor/
